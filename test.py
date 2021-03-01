@@ -4,4 +4,10 @@ def rasmusmethod(x, y):
 for i in range(100):
 	print(rasmusmethod(i, i*2))
 
-#Stop that kevin! REEE
+
+name = "Rasmus"
+def this_is_my_branc(input)
+	print(f"This branch belongs to {name}")
+
+for i in range(5):
+	this_is_my_branch(name)
