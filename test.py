@@ -1,9 +1,8 @@
-def rasmusmethod(x, y):
-	print(x*y+2)
+# ramusmethod for life
 
-for i in range(100):
-	print(rasmusmethod(i, i*2))
-
+def recur(indict={1:'hej'}):
+	print(indict)
+	indict[i] = i * 2
 
 name = "Rasmus"
 def this_is_my_branc(input)
@@ -11,3 +10,7 @@ def this_is_my_branc(input)
 
 for i in range(5):
 	this_is_my_branch(name)
+
+for i in range(100):
+	recur()
+
