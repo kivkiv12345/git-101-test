@@ -5,7 +5,7 @@ def recur(indict={1:'hej'}):
 	indict[i] = i * 2
 
 name = "Rasmus"
-def this_is_my_branc(input)
+def this_is_my_branc(input):
 	print(f"This branch belongs to {name}")
 
 for i in range(5):
