@@ -4,7 +4,4 @@ def rasmusmethod(x, y):
 for i in range(100):
 	print(rasmusmethod(i, i*2))
 
-def ramusmethod(input)
-	print(input)
-
-ramusmethod('ramus')
+#Stop that kevin! REEE
