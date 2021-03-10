@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LommeregnerMedRasmus</name>
+    </assembly>
+    <members>
+        <member name="M:LommeregnerMedRasmus.Program.LongCalculation(System.String)">
+            <summary>
+            Takes a string with multiple numbers and operators to calculate, example: "5*2/4-2+7*2".
+            Work In Progress. Not working at the moment, DO NOT USE.
+            </summary>
+            <param name="calcString"></param>
+            <returns>A double that is the result of the calculation</returns>
+        </member>
+        <member name="M:LommeregnerMedRasmus.Program.ReadDouble">
+            <summary>
+            Continuously prompts the user for a value until it may be converted to a double.
+            </summary>
+            <returns>The provided user input converted to a double.</returns>
+        </member>
+        <member name="M:LommeregnerMedRasmus.Program.ReadOperator">
+            <summary>
+            Continuously prompts the user for an operator until a valid one is provided.
+            </summary>
+            <returns>The operator entered by the user.</returns>
+        </member>
+        <member name="M:LommeregnerMedRasmus.Program.Main(System.String[])">
+            <summary>
+            Will prompt the user for the required inputs and perform the desired calculation from there.
+            </summary>
+        </member>
+    </members>
+</doc>
